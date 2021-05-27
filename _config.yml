@@ -184,7 +184,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  supervision:
     output: true
     permalink: /:collection/:path/
 
@@ -213,7 +213,7 @@ defaults:
   # _supervision
   - scope:
       path: ""
-      type: teaching
+      type: supervision 
     values:
       layout: single
       author_profile: true
