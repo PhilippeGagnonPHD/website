@@ -11,6 +11,4 @@ overwrite_link: https://arxiv.org/abs/2104.06384
 ---
 w. Sebastian M Schmon
 
-[Download paper here](https://arxiv.org/abs/2104.06384)
-
 
