@@ -10,5 +10,3 @@ citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journa
 overwrite_link: 'https://arxiv.org/abs/2104.06384'
 ---
 w. Sebastian M Schmon
-
-
