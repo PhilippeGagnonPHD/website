@@ -1,5 +1,5 @@
 ---
-title: "Lifted samplers for partially ordered discrete state-spaces"
+title: "An asymptotic Peskun ordering and its application to lifted samplers"
 excerpt: 'w. Florian Maire'
 collection: publications
 permalink: /publication/2020-04-01-lifted-partially
