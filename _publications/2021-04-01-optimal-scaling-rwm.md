@@ -1,5 +1,5 @@
 ---
-title: "Optimal scaling of random-walk Metropolis algorithms using Bayesian large-sample asymptotics"
+title: "Optimal scaling of random walk Metropolis algorithms using Bayesian large-sample asymptotics"
 excerpt: 'w. Sebastian M Schmon'
 collection: publications
 permalink: /publication/2021-04-01-optimal-scaling-rwm
