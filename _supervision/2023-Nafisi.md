@@ -1,10 +1,10 @@
 ---
-title: "Robust Gamma Generalized Linear Models with Applications in Actuarial Science"
+title: "Horseshoe prior: an application in astrophysics"
 collection: supervision
-type: "Yuxi Wang"
+type: "Hasti Nafisi"
 permalink: 
 venue: "Master's student"
-date: 2022-08-08
+date: 2023-08-08
 location: # "City, Country"
 nolink: '1'
 ---
