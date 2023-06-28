@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of actuarial science in the [Department of Mathematics and Statistics](https://dms.umontreal.ca/en/) at Université de Montréal. Before that, I was a postdoctoral researcher at University of Oxford, working with [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/) on non-reversible jump algorithms. 
+I am an assistant professor of actuarial science in the [Department of Mathematics and Statistics](https://dms.umontreal.ca/en/) of Université de Montréal. Before that, I was a postdoctoral researcher at University of Oxford, working with [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/) on [non-reversible jump algorithms](https://arxiv.org/abs/1911.01340). 
 
 My experience and interest in actuarial science began with undergraduate studies in this field. While doing the bachelor's degree, I also fulfilled all the requirements for obtaining the Associate designation from the [Society of Actuaries](https://www.soa.org). After that, I completed a master's and Ph.D. in Statistics. During the graduate studies, I developed an interest for Bayesian robustness against outliers and Markov chain Monte Carlo methods. I more precisely introduced methodology for obtaining robust model/variable selection and parameter estimation in linear regression, along with efficient algorithms for achieving these tasks. 
 
