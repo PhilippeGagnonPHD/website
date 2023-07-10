@@ -48,7 +48,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 		{% elsif post.collection == 'supervision' %}
-          <p> {{ post.name }}, <i>{{ post.type }}</i>, {{ post.extrainfo }} {{ post.date }} </p>
+          <p> {{ post.name }}, <i>{{ post.type }}</i>, {{ post.extrainfo }} {{ post.start-end }} </p>
         {% elsif post.collection == 'publications' %}
           {% if post.venue %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
