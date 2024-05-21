@@ -86,7 +86,7 @@ author:
   location         :  # "Location"
   employer         :  "Université de Montréal"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  "(https://scholar.google.com/citations?user=2XwJuMkAAAAJ&hl=en&oi=ao){:target="_blank"}"
+  googlescholar    :  "https://scholar.google.com/citations?user=2XwJuMkAAAAJ&hl=en&oi=ao"
   email            :  "philippe.gagnon.3@umontreal.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
