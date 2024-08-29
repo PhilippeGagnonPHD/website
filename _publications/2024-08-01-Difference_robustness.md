@@ -1,5 +1,5 @@
 ---
-title: "Theoretical guarantees for lifted samplers"
+title: "On a fundamental difference between Bayesian and frequentist approaches to robustness"
 excerpt: 'w. Alain Desgagné'
 collection: publications
 permalink: /publication/2024-08-01-Difference_robustness
