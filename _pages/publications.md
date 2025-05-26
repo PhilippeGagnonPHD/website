@@ -17,7 +17,7 @@ author_profile: true
       {% include archive-single-publication.html %}
    {% endfor %}
 {% endif %}
-<h2 style="margin: 1em 0 1em;">Published</h2>
+<h2 class="h2publication">Published</h2>
 {% for post in site.publications reversed %}
   {% include archive-single-publication.html %}
 {% endfor %}
