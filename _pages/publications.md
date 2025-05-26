@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.pub.preprint reversed %}
+{% for post in site.pubPreprint reversed %}
   {% include archive-single-publication.html %}
 {% endfor %}
 
