@@ -12,10 +12,10 @@ author_profile: true
 {% include base_path %}
 
 {% if site.pubPreprint.size > 0 %}
-	<h2>Preprint</h2>
-	{% for post in site.pubPreprint reversed %}
-  		{% include archive-single-publication.html %}
-	{% endfor %}
+   <h2>Preprint</h2>
+   {% for post in site.pubPreprint reversed %}
+      {% include archive-single-publication.html %}
+   {% endfor %}
 {% endif %}
 <h2>Published</h2>
 {% for post in site.publications reversed %}
