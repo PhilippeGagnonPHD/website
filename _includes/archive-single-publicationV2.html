@@ -34,10 +34,19 @@
         {{ title }}
       {% elsif post.overwrite_link %}
         {% if post.authors %}
-           {{ post.authors }} ({{ post.year }})
+           {{ post.authors }} 
+   
+           {% if post.year %}
+           ({{ post.year }})
+           {% else %}
+.
+           {% endif %}
+
         {% endif %}
         <a href="{{ post.overwrite_link }}" target="_blank">{{ post.title }}</a>.
-        <i>{{ post.venue }}</i>.
+        {% if post.venue %}
+           <i>{{ post.venue }}</i>.
+        {% endif %}
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" >{{ title }}</a>
       {% endif %}
