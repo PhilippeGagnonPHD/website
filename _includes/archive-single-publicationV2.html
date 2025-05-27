@@ -37,7 +37,7 @@
            {{ post.authors }} ({{ post.year }})
         {% endif %}
         <a href="{{ post.overwrite_link }}" target="_blank">{{ title }}</a>
-        {{ post.venue }}.
+        <i>{{ post.venue }}</i>.
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" >{{ title }}</a>
       {% endif %}
