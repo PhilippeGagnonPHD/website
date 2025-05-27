@@ -11,4 +11,3 @@ overwrite_link: 'https://doi.org/10.1016/j.csda.2024.107920'
 authors: 'w. Yuxi Wang'
 year: 2024
 ---
-w. Yuxi Wang
