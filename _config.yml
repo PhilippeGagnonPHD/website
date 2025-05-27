@@ -178,7 +178,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  pubPreprint:
+  preprints:
     output: true
     permalink: /:collection/:path/
   portfolio:
