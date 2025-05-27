@@ -1,6 +1,7 @@
 ---
 title: "Theoretical guarantees for lifted samplers"
 excerpt: 'w. Florian Maire'
+authors: Gagnon P. and Maire F.
 collection: publications
 permalink: /publication/2024-05-01-Guarantees_lifted
 date: 2024-09-01
