@@ -71,7 +71,11 @@
 article a
 {
 	color:blue;
-	text-decoration: none;
+};
+
+.page__content a 
+{
+	text-decoration: none !important;
 };
 
 
