@@ -1,5 +1,5 @@
 ---
-title: "Theoretical properties of Bayesian Student-*t* linear regression"
+title: "Theoretical properties of Bayesian Student-*t*<i>t</i> linear regression"
 collection: publications
 permalink: /publication/2022-04-01-student_regression
 date: 2023-02-01
