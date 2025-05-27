@@ -1,5 +1,5 @@
 ---
-title: "Robust heavy-tailed versions of generalized linear models with applications in actuarial science."
+title: "Robust heavy-tailed versions of generalized linear models with applications in actuarial science"
 excerpt: 'w. Yuxi Wang'
 collection: publications
 permalink: /publication/2023-05-01-Robust_GLM
