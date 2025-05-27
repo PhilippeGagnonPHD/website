@@ -1,6 +1,7 @@
 ---
 title: "On a fundamental difference between Bayesian and frequentist approaches to robustness"
 excerpt: 'w. Alain Desgagné'
+authors: Gagnon P. and Desgagné A.
 collection: publications
 permalink: /publication/2024-08-01-Difference_robustness
 date: 2024-10-01
