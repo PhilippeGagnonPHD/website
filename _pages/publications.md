@@ -19,5 +19,5 @@ author_profile: true
 {% endif %}
 <h2 class="h2publication">Publications</h2>
 {% for post in site.publications reversed %}
-  {% include archive-single-publication.html %}
+  {% include archive-single-publicationV2.html %}
 {% endfor %}
