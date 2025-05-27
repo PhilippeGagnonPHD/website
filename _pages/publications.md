@@ -14,7 +14,7 @@ author_profile: true
 {% if site.preprints.size > 0 %}
    <h2 class="h2publication">Preprints</h2>
    {% for post in site.preprints reversed %}
-      {% include archive-single-publication.html %}
+      {% include archive-single-publicationV2.html %}
    {% endfor %}
 {% endif %}
 <h2 class="h2publication">Publications</h2>
