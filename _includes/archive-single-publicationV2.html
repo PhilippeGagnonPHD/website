@@ -12,8 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
-
-  <article itemscope itemtype="http://schema.org/CreativeWork" style="margin-bottom: 10px;">
+<p class="{{ include.type | default: "list" }}__item publication researchV2"></p>
+  <article itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
