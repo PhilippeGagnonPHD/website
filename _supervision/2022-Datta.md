@@ -6,6 +6,7 @@ permalink:
 type: "PhD"
 start-end: "2022-"
 nolink: "1"
+affiliation: "Department of Mathematics and Statistics, Université de Montréal"
 ---
 
 Department of Mathematics and Statistics, Université de Montréal
