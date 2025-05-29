@@ -28,11 +28,7 @@
 
 
 	<div class="page__content" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% elsif post.nolink contains "1"  %}
-        {{ title }}
-      {% elsif post.overwrite_link %}
+
         {% if post.name %}
            {{ post.name }} 
    
@@ -51,9 +47,7 @@
         {% if post.venue %}
            <i>{{ post.venue }}</i>.
         {% endif %}
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" >{{ title }}</a>
-      {% endif %}
+      
     </div>
 
 
