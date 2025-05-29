@@ -26,21 +26,22 @@
       </div>
     {% endif %}
 
-
-	<div class="page__content" itemprop="headline">
+    <div class="page__content" itemprop="headline">
+	<div>
         {% if post.overwrite_link %}
            <a href="{{ post.overwrite_link }}" target="_blank">{{ post.title }}</a>
         {% else %}
             {{ post.title }}
         {% endif %}
+        </div>
         {% if post.name %}
-           {{ post.name }} 
+           {{ post.name }},
    
            {% if post.type %}
-               ({{ post.type }})
+               <i>{{ post.type }}</i>,
            {% endif %}
            {% if post.start-end %}
-           	({{ post.start-end }})
+           	{{ post.start-end }}
            {% endif %}
 
            {% if post.affiliation %}
