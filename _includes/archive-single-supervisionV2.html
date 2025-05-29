@@ -28,11 +28,11 @@
 
 
 	<div class="page__content" itemprop="headline">
-      {% post.overwrite_link %}
-<a href="{{ post.overwrite_link }}" target="_blank">{{ post.title }}</a>.
-{% else %}
-{{ post.title }}
-{% endif %}
+        {% post.overwrite_link %}
+          <a href="{{ post.overwrite_link }}" target="_blank">{{ post.title }}</a>
+        {% else %}
+          {{ post.title }}
+        {% endif %}
         {% if post.name %}
            {{ post.name }} 
    
