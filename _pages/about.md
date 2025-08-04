@@ -12,9 +12,9 @@ I am an associate professor in the [Department of Mathematics and Statistics](ht
 
 I have a background in statistics (with a MSc and a PhD in statistics) and an interest for actuarial science (I have a BSc in actuarial science and I am Associate of the [Society of Actuaries](https://www.soa.org){:target="_blank"}). My research interests are:
 * Bayesian inference,
- * more precisely, robust inference in the presence of outliers, 
+	* more precisely, robust inference in the presence of outliers, 
 * computational statistics,
- * more precisely, Markov chain Monte Carlo methods.
+	* more precisely, Markov chain Monte Carlo methods.
 
 
 My experience and interest in actuarial science began with undergraduate studies in this field. While doing the bachelor's degree, I also fulfilled all the requirements for obtaining the Associate designation from the [Society of Actuaries](https://www.soa.org){:target="_blank"}. After that, I completed a master's and Ph.D. in Statistics. During the graduate studies, I developed an interest for Bayesian robustness against outliers and Markov chain Monte Carlo methods. I more precisely introduced methodology for obtaining robust model/variable selection and parameter estimation in linear regression, along with efficient algorithms for achieving these tasks. 
