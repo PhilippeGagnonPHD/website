@@ -12,9 +12,9 @@ I am an associate professor in the [Department of Mathematics and Statistics](ht
 
 I have a background in statistics (with a MSc and a PhD in statistics) and an interest for actuarial science (I have a BSc in actuarial science and I am Associate of the [Society of Actuaries](https://www.soa.org){:target="_blank"}). My research interests are:
 * Bayesian inference,
-	* more precisely, robust inference in the presence of outliers, 
+	* in particular, robust inference in the presence of outliers, 
 * computational statistics,
-	* more precisely, Markov chain Monte Carlo methods.
+	* in particular, Markov chain Monte Carlo methods.
 
 I also have an interest for the application of the methodology I develop in actuarial science. For a list of my preprints and publications, please see [research](https://philippegagnonphd.github.io/website/research/).
 
