@@ -1,5 +1,5 @@
 ---
-title: "Reconciliating Bayesian and frequentist approaches to robustness against outliers"
+title: "Reconciling Bayesian and frequentist approaches to robustness against outliers"
 excerpt: 'w. Alain Desgagné'
 authors: Gagnon P. and Desgagné A.
 collection: publications
